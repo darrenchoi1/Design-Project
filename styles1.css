@@ -1,0 +1,34 @@
+* {
+    padding-left: 5px;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+}
+header {
+    background-color: grey;
+    text-align: center;
+    font-size: 45px;
+}
+p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 25px;
+}
+body {
+    background-image:url(https://images.squarespace-cdn.com/content/v1/5462b090e4b047a3e78c12e8/1543009929650-T8GYE8UA4NM9SVIBVLYU/GIF.gif); background-size: 1000px;
+}
+li {
+    display:inline;
+}
+li a{
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 134px;
+}
+li a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+

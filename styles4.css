@@ -1,0 +1,33 @@
+* {
+    padding-left: 5px;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+}
+header {
+    background-color: grey;
+    text-align: center;
+    font-size: 45px;
+}
+p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 25px;
+}
+body { 
+    background-image:url(https://gifdb.com/images/thumbnail/clear-water-under-the-sea-ohsuz5epusbi1s5i.gif); background-size: cover;
+}
+li {
+    display:inline;
+}
+li a{
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 125px;
+}
+li a:hover {
+    color: blue;
+    text-decoration: underline;
+}

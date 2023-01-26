@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    color: white;
+    
+}
+header {
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+    color: white;    
+}
+body {
+    background-image: url(https://avatars.sched.co/6/6A/4029601/avatar.jpg?12d)
+}
+li {
+    display:inline;
+}
+li a{
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 125px;
+}
+li a:hover {
+    color: blue;
+    text-decoration: underline;
+}

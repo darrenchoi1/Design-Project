@@ -1,0 +1,36 @@
+* {
+    padding-left: 5px;
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+}
+header {
+    background-color: lightblue;
+    text-align: center;
+    font-size: 55px;
+}
+p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 25px;
+}
+body { 
+    background-image:url(https://media4.giphy.com/media/3oEjHW5ZfmQsI2rUuk/giphy.gif); background-size: contain;
+ }
+.big {
+    font-size: 35px;
+}
+li {
+    display:inline;
+}
+li a{
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 125px;
+}
+li a:hover {
+    color: blue;
+    text-decoration: underline;
+}

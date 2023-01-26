@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+}
+header {
+    background-color: green;
+    text-align: center;
+    font-size: 35px;
+}
+li {
+    display:inline;
+}
+li a{
+    list-style:none ;
+    font-size: 30px;
+    color:black;
+    padding: 125px;
+}
+li a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+img {
+    padding: 59.9px;
+}
+hr {
+    block-size: 5px;
+    background-color: black;
+}
+.jewelry {
+    position: absolute;
+    left: 5%;
+}
+body { 
+    background-image:url(https://media.tenor.com/ZDe0dPKLr3AAAAAi/raining-money-money.gif); background-size: cover; 
+}
+p {
+    font-size: 40px;
+}
+.p1 {
+    font-size: 25px;
+}
+label {
+    font-size: 30px;
+}
+.small {
+    font-size: 30px;
+}
